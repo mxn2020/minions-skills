@@ -511,7 +511,7 @@ Extended with full lifecycle commands as detailed in section 3.
 This project must support both TypeScript and Python from day one:
 
 **TypeScript SDK:**
-- Published to npm as `minions-skills`
+- Published to npm as `@minions-skills/sdk`
 - Tree-shakeable ES modules
 - Full TypeScript type definitions
 - Works in Node.js, Bun, Deno
